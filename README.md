@@ -37,11 +37,14 @@ My Github Profile Readme .
 
 ---
 
+
 ## 👨‍💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharth07&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSiddharth07&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharth007&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSiddharth007&theme=radical" width="400" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharth007&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
