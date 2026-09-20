@@ -1,4 +1,4 @@
-# Hi there, I'm M.V. Sai Siddharth 👋
+# Hi there, I'm Sai Siddharth 👋
 
 ### Bridging the gap between complex Machine Learning architectures and actionable Visual Analytics.
 
