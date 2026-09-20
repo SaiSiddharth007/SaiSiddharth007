@@ -59,13 +59,24 @@ I am a third-year engineering undergraduate at **IIT Tirupati**, specializing in
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Main Stats Card -->
-  <a href="https://github.com/SaiSiddharth007">
-    <img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharth007&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+ 
+  
+  <!-- Personal Analytics (First 2) -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Advanced_ML_Models_Built-12+-0969da?style=for-the-badge" alt="ML Models" />
   </a>
-  <!-- Top Languages Card -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/National_Hackathons-Top_10_Ranked-0969da?style=for-the-badge" alt="Hackathons" />
+  </a>
+
+  <br><br>
+
+  <!-- GitHub Analytics (Total & Current Streak only) -->
   <a href="https://github.com/SaiSiddharth007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharth007&layout=compact&theme=default&hide_border=true" width="48%" />
+    <img src="https://img.shields.io/badge/Total_Contributions-450+-2ea043?style=for-the-badge&logo=github" alt="Total Contributions" />
+  </a>
+  <a href="https://github.com/SaiSiddharth007">
+    <img src="https://img.shields.io/badge/Current_Streak-21_Days-db6d28?style=for-the-badge&logo=fire" alt="Current Streak" />
   </a>
 </div>
 <br>
