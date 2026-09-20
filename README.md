@@ -1,81 +1,72 @@
-# SaiSiddharth007
-My Github Profile Readme .
+# Hi there, I'm M.V. Sai Siddharth 👋
 
-<h1 align="center">Hi 👋, I'm M.V. Sai Siddharth</h1>
-<p align="center">
-  <em>Aspiring Tech Innovator | B.Tech @ IIT Tirupati | Passionate about Quantum Computing, Cybersecurity & AI/ML</em>
-</p>
+### Bridging the gap between complex Machine Learning architectures and actionable Visual Analytics.
 
----
+I am a third-year engineering undergraduate at **IIT Tirupati**, specializing in building end-to-end data pipelines. I don't just build models in a vacuum; I focus on translating rigorous machine learning (Deep Learning, Ensemble Models) into clean, intuitive dashboards that drive executive decision-making. 
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Civil and Environmental Engineering @ IIT Tirupati (2024–2028)
-- 🧠 Exploring Quantum Computing, Cybersecurity, and Generative AI
-- 🛠️ Building futuristic apps that blend AI, UX, and innovation
+* 🎓 **Education:** B.Tech in Civil Engineering, IIT Tirupati (Class of 2028). Engineering taught me systems thinking—I treat data pipelines like structural blueprints.
+* 💼 **Currently:** Building UI/UX and ML integrations at AlmaNest.
+* 🏆 **Recent Win:** National Finalist (Top 10 / 600 Teams) at the Bank of India Finshield Hackathon 2025.
+* 🤝 **Looking to collaborate on:** Advanced Data Analytics, Federated Learning, and edge-device AI optimization.
 
 ---
 
-## 🧩 Projects I'm Proud Of
+### 📊 Technical Arsenal
 
-- 🔥 **Dripmint AI** – Fashion meets AI. Personalized outfits generated via ML, tailored for every user.
-- ☁️ **Weather Now App** – Real-time Flutter app with GPS integration.
-- 🌱 **Smart Gardening System** – IoT-based smart sprinkler with dashboard.
-- 📊 **CozMind** – Productivity tracker with rich data visualization.
-- ♟️ **Quantum Game Theory** – Research integrating quantum mechanics and strategy.
+**Machine Learning & Data Science**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-171515?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 
----
+**Visual Analytics & Business Intelligence**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠️ Tech Stack
-
-| Area       | Technologies |
-|------------|--------------|
-| 💻 Languages | Python · Dart · HTML · CSS · JS (basic) |
-| 🎨 UI/UX     | Flutter · Figma · Tailwind CSS |
-| 🔐 Cyber/AI  | Qiskit · ML · Git · Quantum-safe Algorithms |
-| ☁️ IoT       | AWS IoT Core · ESP Boards |
-
----
-
-
-## 👨‍💻 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharth007&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSiddharth007&theme=radical" width="400" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharth007&layout=compact&theme=radical" width="400" />
-</p>
+**Software & Tools**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ---
 
-## 🎓 Experience
+### 🚀 Featured Projects
 
-- 🌐 **AlmaNest Startup** – Core team for WebDev & Ops @ IIT Tirupati Incubator
-- 🛡️ **Digital Wizards** – Core Cybersecurity Member, built Social Engineering Framework
-- 🎨 **Tirutsava Creative Cell** – Designed campaigns for tech fest
-- 🎭 **Design Team - Cultural Council** – Visuals & branding for campus events
+#### 🏙️ [EcoArchitect: Advanced Data Analytics Platform](#) 
+* **The Goal:** Optimize urban livability metrics (Greenness, Density, PM 2.5 air quality).
+* **The Tech:** `Python`, `XGBoost`, `Random Forest`, `Streamlit`.
+* **The Analytics:** Extracted and modeled complex environmental data, translating the output into an interactive, visual dashboard to generate actionable insights for city planners.
 
----
+#### 🏦 [Alternative Credit Risk Assessment](#) 
+* **The Goal:** Decentralized, privacy-first risk modeling for financial institutions.
+* **The Tech:** `Ensemble Models (XGBoost + Logistic Regression)`, `Federated Learning`.
+* **The Impact:** Ranked 10th out of 600 teams nationally at the Finshield Hackathon organized by IIT Hyderabad and Bank of India.
 
-## 📫 Connect with Me
+#### 🌱 [TerraTech: Smart Agricultural Guide](#) 
+* **The Goal:** Maximize economic returns and yield efficiency for localized farming.
+* **The Tech:** `Satellite Data Processing`, `Machine Learning`.
+* **The Analytics:** Built a predictive web portal synthesizing historical soil types, climate data, and market values into clear, data-driven recommendations.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-v-sai-siddharth)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Snowy--Theme-orange?style=flat-square&logo=vercel&logoColor=white)](https://sai-portfolio-snowy.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-SaiSiddharth07-lightgrey?style=flat-square&logo=github)](https://github.com/SaiSiddharth07)
-[![Email](https://img.shields.io/badge/Gmail-mvssiddharth@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mvssiddharth@gmail.com)
-
----
-
-## 🧠 Fun Facts
-
-- 🧠 Learning German & Quantum Physics in parallel.
-- 🗣️ Fluent in English, Telugu, Hindi – and a sprinkle of German 🇩🇪.
-- 🏁 Goal: Build a unicorn startup blending AI, Fashion & Sustainability.
+#### 🎨 [Nebula AI: Edge-Optimized Image Editor](#) 
+* **The Goal:** Bring PC-level AI image editing to mobile devices with minimal computation footprint.
+* **The Tech:** `Stable Diffusion`, `ControlNet`, `Flutter`.
 
 ---
 
-<p align="center">
-  💡 *"Code, Design, Disrupt."*
-</p>
+### 📈 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharth007&show_icons=true&theme=transparent&hide_border=true&title_color=1f2328&text_color=1f2328&icon_color=0969da&bg_color=ffffff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharth007&layout=compact&theme=transparent&hide_border=true&title_color=1f2328&text_color=1f2328" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Let's Connect
+* **Portfolio:** [sai-siddharth-portfolio.vercel.com](#)
+* **LinkedIn:** [https://www.linkedin.com/in/m-v-sai-siddharth-2a3a23208/](#)
+* **Email:** ce24b024@iittp.ac.in
