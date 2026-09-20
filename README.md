@@ -56,14 +56,25 @@ I am a third-year engineering undergraduate at **IIT Tirupati**, specializing in
 * **The Tech:** `Stable Diffusion`, `ControlNet`, `Flutter`.
 
 ---
-
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharth007&show_icons=true&theme=transparent&hide_border=true&title_color=1f2328&text_color=1f2328&icon_color=0969da&bg_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharth007&layout=compact&theme=transparent&hide_border=true&title_color=1f2328&text_color=1f2328" height="150" alt="Top Languages" />
+  <!-- Main Stats Card -->
+  <a href="https://github.com/SaiSiddharth007">
+    <img src="https://github-readme-stats.vercel.app/api?username=SaiSiddharth007&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/SaiSiddharth007">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiddharth007&layout=compact&theme=default&hide_border=true" width="48%" />
+  </a>
 </div>
-
+<br>
+<div align="center">
+  <!-- GitHub Streak Card (Very stable server) -->
+  <a href="https://github.com/SaiSiddharth007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSiddharth007&theme=default&hide_border=true" width="98%" />
+  </a>
+</div>
 ---
 
 ### 📫 Let's Connect
